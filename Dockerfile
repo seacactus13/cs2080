@@ -1,4 +1,4 @@
-ROM ubuntu
+FROM ubuntu
 
 RUN apt-get install vim nginx
 
